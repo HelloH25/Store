@@ -1,0 +1,16 @@
+.container-fluid {
+    margin-left: auto;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-item {
+    
+    border: solid;
+    border-color: black;
+    background-color: darkgray;
+    border-radius: 25px;
+    text-decoration-color: blanchedalmond;
+}
