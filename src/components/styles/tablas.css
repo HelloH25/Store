@@ -1,0 +1,15 @@
+
+
+table thead, th, tr, td {
+
+    border: solid;
+    border-width: 1px;
+    width: 100%;
+
+}
+
+
+
+tr:hover{
+    background-color: darkgray;
+}

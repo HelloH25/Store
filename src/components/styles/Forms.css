@@ -1,0 +1,44 @@
+form {
+    
+    text-align: left;
+    margin : 20px 20px;
+    
+}
+
+p{
+    margin-top: 5px;
+    margin-inline-start: 15px;
+}
+h4{
+    margin-left: 50px;
+    text-align: left;
+}
+form, label, input {
+
+    margin-top: 5px;
+    margin-inline-start: 15px;
+}
+
+input{ 
+    margin-right : 8px;
+}
+button{
+
+    background-color: darkgray;
+    border: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color:black;
+    margin: 5px 5px;
+}
+
+button:hover{
+
+    border:solid;
+    background-color: white;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color: gray;
+    font-size: 20px;
+
+}

@@ -14,3 +14,16 @@
     border-radius: 25px;
     text-decoration-color: blanchedalmond;
 }
+
+
+
+.nav-link:hover{
+
+    border:solid;
+    background-color:white;
+    border-radius: 25px;
+    font-size: 10px;
+    text-decoration: underline;
+
+}
+

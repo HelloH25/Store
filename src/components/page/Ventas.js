@@ -1,9 +1,13 @@
 import React from 'react'
+import Forms from '../Forms'
+import Tablas from '../Tablas'
 
 function Ventas() {
     return (
         <div>
-            <span>Hola mundo</span>
+            <h2>Registro de Ventas</h2>
+            <Forms/>
+            <Tablas/>
         </div>
     )
 }

@@ -3,7 +3,7 @@ import React from 'react'
 const Users = () => {
     return (
         <div className='Users'>
-            <span>hola</span>
+            <h2>Gestor de Usuarios</h2>
         </div>
     )
 }
