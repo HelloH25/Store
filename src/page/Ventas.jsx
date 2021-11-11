@@ -1,6 +1,6 @@
 import React from 'react'
-import Forms from '../Forms'
-import Tablas from '../Tablas'
+import Forms from '../components/Forms'
+import Tablas from '../components/Tablas'
 
 function Ventas() {
     return (

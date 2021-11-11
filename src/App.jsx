@@ -3,9 +3,9 @@ import './App.css'
 import Navigation from './components/Navigation'
 import 'bootstrap/dist/css/bootstrap.css'
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
-import Productos from './components/page/Productos'
-import Ventas from './components/page/Ventas'
-import Users from './components/page/Users'
+import Productos from './page/Productos'
+import Ventas from './page/Ventas'
+import Users from './page/Users'
 import Tablas from './components/Tablas'
 
 const App = () => {
