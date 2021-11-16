@@ -1,13 +1,13 @@
 import React from 'react'
-import { FormsProd } from '../Forms'
-import Tablas from '../Tablas'
+import { FormsProd } from '../components/Forms'
+import Tablas from '../components/Tablas'
 
-const Productos = () => {
+function Productos() {
     return (
         <div className='Productos'>
             <h2>Registro de Inventario</h2>
-            <FormsProd/>
-            <Tablas/>
+            <FormsProd />
+            <Tablas />
         </div>
     )
 }

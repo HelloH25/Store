@@ -4,7 +4,7 @@ import { useTable, useGlobalFilter, usePagination,  useSortBy, useAsyncDebounce 
 import { useColumns, useRows} from './ValTabVen';
 import { BiFirstPage, BiLastPage} from 'react-icons/bi'
 import { MdKeyboardArrowRight, MdKeyboardArrowLeft } from "react-icons/md";
-import './styles/tablas.css'
+import '../styles/tablas.css'
 const CarsFilter = ({ preGlobalFilteredRows, globalFilter, setGlobalFilter }) => {
     const totalCarsAvailable = preGlobalFilteredRows.length;
     const [value, setValue] = useState(globalFilter);
